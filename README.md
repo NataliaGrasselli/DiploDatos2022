@@ -7,8 +7,8 @@ Este repositorio contiene los trabajos practicos realizados por el grupo N° 2 d
 Integrantes:
 
 * Diego A. Gómez
-* Natalia A. kunzmann
-* Natalia C. Graselli
+* Natalia A. Kunzmann
+* Natalia C. Grasselli
 * Patricia V. Gonzalez
 * M. Virginia Romero Messein
 
